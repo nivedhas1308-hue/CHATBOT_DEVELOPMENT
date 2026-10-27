@@ -1,0 +1,64 @@
+timestamp,user_question,chatbot_response
+2026-10-27T06:11:49+05:30,What is artificial intelligence?,"Artificial intelligence (AI) refers to the development of computer systems that can perform tasks that would typically require human intelligence, such as learning, problem-solving, and decision-making.
+
+Imagine you're playing a game where you need to recognize patterns, like a puzzle. A human brain would look at the puzzle and try to understand what's happening, whereas a computer program with AI would be able to look at the puzzle and learn from it, so it can solve similar puzzles on its own.
+
+There are several types of AI, including:
+
+1. **Machine Learning**: This is a subset of AI that allows computers to learn from data and improve their performance over time.
+2. **Natural Language Processing**: This is a type of AI that enables computers to understand, interpret, and generate human language.
+3. **Computer Vision**: This is a type of AI that allows computers to interpret and understand visual data from images and videos.
+
+AI has many applications, such as:
+
+* **Virtual Assistants**: AI-powered virtual assistants, like Siri, Alexa, or Google Assistant, can understand voice commands and respond accordingly.
+* **Image Recognition**: AI-powered image recognition systems can identify objects, people, and patterns in images.
+* **Chatbots**: AI-powered chatbots can understand and respond to user queries in a conversational manner.
+
+The goal of AI is to create intelligent machines that can perform tasks that would be difficult or impossible for humans to do on their own.
+
+Does this help you understand AI a bit better?"
+2026-10-27T06:12:02+05:30,What is Python?,"Python is a high-level, interpreted programming language that's easy to learn and use. It's like a set of instructions that a computer can understand and follow.
+
+Imagine you're writing a recipe for your favorite cake. You'd list the ingredients, the steps to mix and bake, and the result would be a delicious cake. Python is like a recipe for a computer. You write a series of instructions (code) that the computer can execute, and it follows your recipe to get the desired outcome.
+
+Python is a versatile language that's used in many areas, such as:
+
+* **Web Development**: Python is used to build websites and web applications, like Facebook and Instagram.
+* **Data Analysis**: Python is used to analyze and visualize data, like in statistics and machine learning.
+* **Artificial Intelligence**: Python is used to build AI and machine learning models, like the ones I mentioned earlier.
+* **Automation**: Python is used to automate tasks, like data entry, file management, and more.
+
+Why is Python popular?
+
+1. **Easy to Learn**: Python has a simple syntax and is relatively easy to read and write.
+2. **Versatile**: Python can be used for many tasks, from web development to data analysis.
+3. **Large Community**: Python has a vast and active community, which means there are many resources available for learning and troubleshooting.
+
+Some popular libraries and frameworks that use Python include:
+
+* **Django**: A web framework for building web applications.
+* **NumPy**: A library for numerical computing and data analysis.
+* **TensorFlow**: A library for building machine learning models.
+
+Overall, Python is a powerful and flexible language that's widely used in many areas of computer science.
+
+Do you have any experience with Python or would you like to learn more?"
+2026-10-27T06:12:10+05:30,Can you explain that in simpler words?,"Python is a way to tell a computer what to do. It's like a recipe for the computer.
+
+You write down instructions, called ""code"", and the computer follows them. The instructions can be to do things like:
+
+* Show a picture
+* Ask for a question
+* Do a math problem
+* Create a new file
+
+Python is a popular way to write these instructions because it's:
+
+* Easy to learn
+* Good for many things (like building websites, analyzing data, and making games)
+* Has a lot of help available (from a big community of people who know how to use it)
+
+Think of Python like a tool that helps you communicate with the computer. You write your instructions, and the computer follows them to do what you want it to do.
+
+Does that make sense?"

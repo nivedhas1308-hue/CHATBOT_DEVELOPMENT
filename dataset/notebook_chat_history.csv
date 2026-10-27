@@ -1,0 +1,10 @@
+timestamp,user_question,chatbot_response
+2026-10-27 06:21:24,What is machine learning?,"Machine learning is when a computer learns from data.
+
+Imagine you teach a child to recognize pictures of dogs and cats. At first, they might not be very good at it. But as you show them more and more pictures, they start to learn and get better.
+
+Machine learning works in a similar way. You give a computer a lot of data, like pictures or words, and it starts to learn from it. The computer looks for patterns and connections, and over time, it becomes better at making predictions or decisions.
+
+For example, imagine you're building a computer program that can recognize faces. At first, it might not be very good at it. But as it sees more and more pictures of faces, it starts to learn and get better at recognizing faces.
+
+That's machine learning!"
